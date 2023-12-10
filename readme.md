@@ -8,7 +8,7 @@ C:\> git clone https://github.com/BigBangInfinity/hadrien_NFT_shared-scaffold-et
 
 npm/yarn install in these folders
 
-use npm for ballotcontract and yarn for others (as we did in class).
+use npm for hadrien_NFT_shared-contract and yarn for others (as we did in class).
 
 ```
 C:\hadrien_NFT_shared-backend-my-api> yarn install
